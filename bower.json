@@ -1,0 +1,23 @@
+{
+  "name": "2.3-photo-site",
+  "version": "0.0.0",
+  "authors": [
+    "scott6455 <scottgreen555@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "~4.2.5",
+    "neat": "~1.7.2"
+  }
+}
